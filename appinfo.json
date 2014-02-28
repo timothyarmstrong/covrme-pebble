@@ -1,0 +1,20 @@
+{
+  "uuid": "2f4a1a9b-f079-4615-bd22-c8a71a5eaab3",
+  "shortName": "Covr.Me",
+  "longName": "Covr.Me for Pebble",
+  "companyName": "Covr.Me",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "status": 0,
+    "visitor_description": 1,
+    "fetch": 2,
+    "response_message": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
